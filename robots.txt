@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://gaoxuhu.github.io/xinwuguangga/sitemap.xml
